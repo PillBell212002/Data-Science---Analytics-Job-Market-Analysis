@@ -1,0 +1,39 @@
+Skill_ID,Skill,Skill Category
+1,AWS,Cloud
+2,Azure,Cloud
+3,D3,Programming
+4,Data Analysis,Analytics
+5,Data Visualization,Analytics
+6,Databricks,Data Engineering
+7,Deep Learning,Data Science
+8,ETL,Data Engineering
+9,Excel,BI & Analytics
+10,Forecasting,Analytics
+11,GCP,Cloud
+12,Google Cloud,Cloud
+13,Hadoop,Data Engineering
+14,Java,Programming
+15,JavaScript,Programming
+16,Kafka,Data Engineering
+17,Looker,BI & Analytics
+18,Machine Learning,Data Science
+19,MongoDB,Database
+20,MySQL,Database
+21,NLP,Data Science
+22,Oracle,Database
+23,PostgreSQL,Database
+24,Power BI,BI & Analytics
+25,Predictive Modeling,Analytics
+26,PyTorch,Data Science
+27,Python,Programming
+28,Qlik,BI & Analytics
+29,R,Programming
+30,SQL,Database
+31,SQL Server,Database
+32,Scala,Programming
+33,Scikit-learn,Data Science
+34,Snowflake,Data Engineering
+35,Spark,Data Engineering
+36,Statistics,Analytics
+37,Tableau,BI & Analytics
+38,TensorFlow,Data Science
